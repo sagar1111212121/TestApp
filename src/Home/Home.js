@@ -12,6 +12,11 @@ const Home = (props) => {
                     <div className="logoDiv">
                         <img className="logoImg" alt="" src="https://pfizer.sharepoint.com/sites/Launchpad-stg/SiteAssets/getListItemREACT/Images/Logo.PNG" />
                     </div>
+                    <div>
+                        
+                    </div>
+
+
                     <nav>
                         <ul>
                             <li><Link to={{
