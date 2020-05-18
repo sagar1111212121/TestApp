@@ -1,0 +1,58 @@
+.contactFunCss{
+    height: 400px;
+    line-height: 400px;
+    vertical-align: center;
+    background-color: #ddd;
+    color: black;
+    /* border: 1px solid gray; */
+    padding: 15px;
+    text-align: center;
+    
+    background-image: -ms-linear-gradient(left, #2193b0 0%, #6dd5ed 70%);
+    background-image: -moz-linear-gradient(left, #2193b0 0%, #6dd5ed 70%);
+    background-image: -o-linear-gradient(left, #2193b0 0%, #6dd5ed 70%);
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #2193b0), color-stop(70, #6dd5ed ));
+    background-image: -webkit-linear-gradient(left, #2193b0 0%, #6dd5ed 70%);
+    background-image: linear-gradient(to right, #2193b0 0%, #6dd5ed 70%);
+    color: white;
+    font-weight: bold;
+    font-size: 30px;    
+
+}
+
+.mainOuterContact{
+    background-color: #ececec;
+    min-height: 500px;
+    padding-bottom: 50px;
+    float: left;
+    width: 100%
+}
+.belowTiles{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.outerTileCLass{
+    min-height: 200px;
+}
+.innerTileCLasCon{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    
+    padding: 40px 20px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+.viewAllClass{
+    border-top: 1px solid #ddd;
+    color: #2193b0; 
+
+    margin-top: 15px;
+    text-align: center;
+    padding-top: 19px;
+
+}

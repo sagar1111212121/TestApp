@@ -1,6 +1,53 @@
 .App {
-  text-align: center;
+  
+  
 }
+
+.App header{  
+  text-align: right;
+  /* width: 100%; */
+  background-color: #f9f9f9;
+}
+.logoDiv{
+  float: left;
+  width: 20%;
+}
+nav{
+  float: left;
+    width: 80%;
+    text-align: right;
+}
+.App ul{
+  list-style: none;
+  margin:0;
+  padding:0
+
+}
+.App li{
+  display: inline-block;
+  padding: 20px;
+  cursor: pointer;
+  
+}
+.App a{
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid black;
+}
+
+
+.App li:hover {
+  background-image: -ms-linear-gradient(left, #F3D0B3 0%, #FBE6D4 70%);
+  background-image: -moz-linear-gradient(left, #F3D0B3 0%, #FBE6D4 70%);
+  background-image: -o-linear-gradient(left, #F3D0B3 0%, #FBE6D4 70%);
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #F3D0B3), color-stop(70, #FBE6D4 ));
+  background-image: -webkit-linear-gradient(left, #F3D0B3 0%, #FBE6D4 70%);
+  background-image: linear-gradient(to right, #F3D0B3 0%, #FBE6D4 70%);
+  
+
+  
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +82,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+.logoImg{
+  width: 82%;
+  padding-top: 6px;
+  text-align: left;
+  float: left;
+  padding-left: 20px;
 }

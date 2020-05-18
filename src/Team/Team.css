@@ -1,0 +1,68 @@
+.TeamFunCss{
+    height: 70px;
+    line-height: 40px;
+    vertical-align: center;
+    background-color: #ddd;
+    color: black;
+    /* border: 1px solid gray; */
+    padding: 15px;
+    text-align: center;
+  
+
+    background-image: -ms-linear-gradient(left, #f4ce9f 0%, #f6e0c5 70%);
+  background-image: -moz-linear-gradient(left, #f4ce9f 0%, #f6e0c5 70%);
+  background-image: -o-linear-gradient(left, #f4ce9f 0%, #f6e0c5 70%);
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #f4ce9f), color-stop(70, #f6e0c5 ));
+  background-image: -webkit-linear-gradient(left, #f4ce9f 0%, #f6e0c5 70%);
+  background-image: linear-gradient(to right, #f4ce9f 0%, #FBE6D4 70%);
+    color: white;
+    font-weight: bold;
+    font-size: 25px;    
+
+}
+
+.mainOuterContactTeam{
+    background-color: white;
+    min-height: 500px;
+    padding-bottom: 50px;
+    float: left;
+    width: 100%
+}
+.belowTilesTeam{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.outerTileCLass{
+    min-height: 200px;
+}
+.innerTileCLas{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+
+    padding: 60px 20px;
+    border-radius: 5px;
+}
+
+.teamImg{
+    width: 100%;
+}
+
+.sectionHeader{
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 30px;;
+}
+.sectionHeaderFronSec{
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 50px;;
+}
